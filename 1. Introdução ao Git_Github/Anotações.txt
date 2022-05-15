@@ -1,0 +1,17 @@
+Link para download do Git:https://git-scm.com/downloads
+
+Definição: Sistema de controle de versão distribuído
+
+
+Principais comandos:
+1. Git init
+2. Git clone
+3. Git branch
+4. Git checkout
+5. Git status
+6. Git add
+7. Git commit
+8. Git push
+9. Git pull
+10.Git revert
+11.Git merge
